@@ -1,6 +1,6 @@
 # Observabilidade e Qualidade de Dados
 
-Aplica **Great Expectations** (de verdade, nao simulado) e checagens
+Aplica **Great Expectations** e checagens
 customizadas de frescor/completude sobre a camada Gold construida nos
 Projetos 03/04, gerando um dashboard HTML de monitoramento e um
 relatorio JSON reaproveitavel.
