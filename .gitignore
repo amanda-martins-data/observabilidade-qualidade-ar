@@ -1,0 +1,9 @@
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# saida gerada em runtime (relatorios)
+out/
+gx/
