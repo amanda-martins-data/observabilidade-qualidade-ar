@@ -1,5 +1,7 @@
 # Observabilidade e Qualidade de Dados
 
+[![CI](https://github.com/amanda-martins-data/observabilidade-qualidade-ar/actions/workflows/ci.yml/badge.svg)](https://github.com/amanda-martins-data/observabilidade-qualidade-ar/actions/workflows/ci.yml)
+
 Aplica **Great Expectations** e checagens
 customizadas de frescor/completude sobre a camada Gold construida nos
 Projetos 03/04, gerando um dashboard HTML de monitoramento e um
